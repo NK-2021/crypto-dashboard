@@ -1,3 +1,6 @@
+# Crypto Dashboard - React Application using Styled Components.
+<img width="995" alt="Screenshot 2021-06-27 at 8 06 36 PM" src="https://user-images.githubusercontent.com/85902045/123548657-5152ca80-d783-11eb-9b0b-765ad71b6b16.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
